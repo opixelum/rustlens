@@ -1,0 +1,12 @@
+[package]
+name = "rustlens"
+version = "0.1.0"
+authors = ["Opixelum <opixelum@fastmail.com>"]
+description = "Image recognition through the Lens of Rust."
+readme = "README.md"
+repository = "https://github.com/opixelum/rustlens"
+license = "Unlicense"
+keywords = ["ai", "cnn", "image-classification", "cnn"]
+categories = ["computer-vision", "command-line-utilities", "multimedia::images"]
+
+[dependencies]
