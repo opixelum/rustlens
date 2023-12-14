@@ -1,2 +1,3 @@
-# rustlens
-Image recognition through the Lens of Rust.
+# RustLens
+
+Image classification through the Lens of Rust.
