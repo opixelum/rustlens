@@ -21,6 +21,6 @@ jobs:
     - name: Run tests
       run: cargo test --verbose
     - name: Check format
-      run: rustfmt src/**/*.rs --check --verbose
+      run: rustfmt **/*.rs --check --verbose
     - name: Lint
       run: cargo clippy
